@@ -1,0 +1,15 @@
+.slick #slider .plan-container .wrapper .list-info {
+    padding: 20px 10px 40px 30px !important;
+}
+.maping .datacenters.germany {
+    top: 40%;
+    left: 51%;
+}
+.maping .datacenters.us {
+    top: 44%;
+    left: 17%;
+}
+
+.slick #slider .plan-container .wrapper .list-info {
+    background-color: #2F3C52;
+}
